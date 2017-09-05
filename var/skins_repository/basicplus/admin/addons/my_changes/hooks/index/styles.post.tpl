@@ -1,0 +1,1 @@
+<link href="{$config.skin_path}/addons/my_changes/basicplus.css" rel="stylesheet" type="text/css" />

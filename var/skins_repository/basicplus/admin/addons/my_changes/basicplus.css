@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+#menu li.basicplus-menu:hover {
+	background: url(../../images/mm_items_bg.png) 0% -80px;
+}
+#menu li.basicplus-menu:hover a {
+	background: none;
+	cursor: pointer;
+}
